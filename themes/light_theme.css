@@ -1,0 +1,27 @@
+body {
+    color: black;
+    background-color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    border-bottom: 0.25px solid grey;
+    padding-bottom: 0.5em;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    color: #0c69cb;
+    /* Puedes ajustar este valor al azul que prefieras */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
